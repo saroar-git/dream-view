@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav a.active{
+      color: #004A6B;
+}
+
+.dark-mode {
+  background-color: #222;
+  color: #fff;
+}
+
+.white-mode {
+  background-color: #fff;
+  color: #222;
+}
