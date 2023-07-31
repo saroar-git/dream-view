@@ -45,7 +45,8 @@
 - Cors
 - Vercel (Deploy Server)
 
-## Live site: [AirCNC](https://aircnc-68403.web.app/) https://dream-view-8f44f.web.app/
+## Live site: [Dream-View](https://dream-view-8f44f.web.app/)
+
 Admin Email: saroar@jahan.com
 Admin Password: A12345*
 
